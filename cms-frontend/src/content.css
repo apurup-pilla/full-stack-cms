@@ -1,0 +1,96 @@
+/* Styles for TipTap-generated HTML rendered on the public site */
+.cms-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #1e293b;
+}
+
+.cms-content h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 1.5rem 0 0.75rem;
+  color: #0f172a;
+}
+
+.cms-content h2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 1.25rem 0 0.6rem;
+  color: #0f172a;
+}
+
+.cms-content h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 1rem 0 0.5rem;
+}
+
+.cms-content p {
+  margin-bottom: 1rem;
+}
+
+.cms-content ul,
+.cms-content ol {
+  padding-left: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.cms-content li {
+  margin-bottom: 0.25rem;
+}
+
+.cms-content blockquote {
+  border-left: 4px solid #3b82f6;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+  background: #f0f9ff;
+  color: #334155;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+}
+
+.cms-content code {
+  background: #f1f5f9;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.9em;
+  color: #e11d48;
+}
+
+.cms-content pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+  font-size: 0.9em;
+}
+
+.cms-content pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+.cms-content hr {
+  border: none;
+  border-top: 2px solid #e2e8f0;
+  margin: 2rem 0;
+}
+
+.cms-content a {
+  color: #3b82f6;
+  text-decoration: underline;
+}
+
+.cms-content img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.cms-content strong { font-weight: 700; }
+.cms-content em     { font-style: italic; }
+.cms-content s      { text-decoration: line-through; }
